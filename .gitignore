@@ -1,5 +1,5 @@
+config.py
+prices.db
 venv/
 __pycache__/
-*.pyc
-prices.db
-.env
+.streamlit/
